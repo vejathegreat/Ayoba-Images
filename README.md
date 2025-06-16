@@ -26,6 +26,7 @@ A modern Android application that displays a beautiful gallery of cat images usi
   - [Flow](https://kotlin.github.io/kotlinx.coroutines/kotlinx-coroutines-core/kotlinx.coroutines.flow/) - Reactive streams
   - [ViewBinding](https://developer.android.com/topic/libraries/view-binding) - View binding
   - [SwipeRefreshLayout](https://developer.android.com/jetpack/androidx/releases/swiperefreshlayout) - Pull-to-refresh
+  - [MockK](https://mockk.io/) - Unit testing
 
 ## Project Structure
 
@@ -90,6 +91,16 @@ For detailed implementation instructions, code examples, and best practices, che
 - Testing implementation
 - Troubleshooting guides
 - Maintenance procedures
+
+### Unit Testing Guide
+For comprehensive unit testing examples and best practices using MockK, see our [Unit Testing Guide](UNIT_TESTING.md). This guide includes:
+- Test setup and configuration
+- ViewModel testing examples
+- Repository testing patterns
+- API service testing
+- Database testing
+- Test utilities and helpers
+- Best practices for writing tests
 
 ## Contributing
 
