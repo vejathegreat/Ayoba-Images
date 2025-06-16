@@ -67,6 +67,30 @@ git clone https://github.com/yourusername/AyobaImages.git
 
 The application uses The Cat API. You don't need an API key for basic functionality, but if you want to use advanced features, you can get an API key from [The Cat API](https://thecatapi.com/).
 
+## Project Documentation
+
+### Technical Overview
+For a comprehensive technical overview of the project architecture, components, and implementation details, please refer to our [Technical Documentation](TECHNICAL_DOCUMENTATION.md). This document covers:
+- Architecture patterns and design decisions
+- Data layer implementation
+- Domain layer structure
+- Presentation layer components
+- Error handling strategies
+- Performance considerations
+- Testing approach
+- Security measures
+
+### Implementation Guide
+For detailed implementation instructions, code examples, and best practices, check out our [Implementation Details](IMPLEMENTATION_DETAILS.md) guide. This document provides:
+- Step-by-step setup instructions
+- Code snippets and examples
+- UI implementation details
+- Error handling patterns
+- Performance optimization techniques
+- Testing implementation
+- Troubleshooting guides
+- Maintenance procedures
+
 ## Contributing
 
 1. Fork the repository
