@@ -21,7 +21,7 @@ A modern Android application that displays a beautiful gallery of cat images usi
   - [Hilt](https://dagger.dev/hilt/) - Dependency injection
   - [Retrofit](https://square.github.io/retrofit/) - Network calls
   - [Room](https://developer.android.com/training/data-storage/room) - Local database
-  - [Coil](https://coil-kt.github.io/coil/) - Image loading
+  - [Glide](https://bumptech.github.io/glide/) - Image loading and caching
   - [Coroutines](https://kotlinlang.org/docs/coroutines-overview.html) - Asynchronous programming
   - [Flow](https://kotlin.github.io/kotlinx.coroutines/kotlinx-coroutines-core/kotlinx.coroutines.flow/) - Reactive streams
   - [ViewBinding](https://developer.android.com/topic/libraries/view-binding) - View binding
