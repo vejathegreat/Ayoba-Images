@@ -44,6 +44,14 @@ app/
 └── util/            # Utility classes
 ```
 
+
+## UI/UX
+
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/8a0d6633-9858-4061-b905-ea3bf5867d39" width="40%"></td>
+    <td><img src="https://github.com/user-attachments/assets/11b4df94-2f3c-49a2-a3b3-6c6439a644bf" width="40%"></td>
+  </tr>
+
 ## Getting Started
 
 ### Prerequisites
