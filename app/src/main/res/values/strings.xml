@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ayoba-Images</string>
+    <string name="error_no_internet">No internet connection. Please enable WiFi or mobile data.</string>
+    <string name="error_empty_response">No images found. Please try again later.</string>
+    <string name="error_generic">Failed to load images. Please try again.</string>
+    <string name="error_no_data">No images available. Please check your connection.</string>
+    <string name="retry">Retry</string>
+    <string name="refresh">Refresh</string>
+    <string name="no_images_found">No Images Found</string>
+</resources>
